@@ -1,4 +1,4 @@
-# Django + Vue.js CRUD app example
+# Django + Vue.js app example
 ## Installation
 Backend is dockerized, so build up and serve the containers, then run Django migrations
 
